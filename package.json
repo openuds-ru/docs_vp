@@ -1,25 +1,25 @@
 {
-  "name": "pactumjs.github.io",
+  "name": "docs.openuds.ru",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "vitepress dev docs",
+    "dev": "openuds docs",
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs",
     "docs:buildserve": "vitepress build docs && vitepress serve docs"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pactumjs/pactumjs.github.io.git"
+    "url": "git+https://github.com/openuds-ru/docs_vp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pactumjs/pactumjs.github.io/issues"
+    "url": "https://github.com/openuds-ru/docs_vp/issues"
   },
-  "homepage": "https://github.com/pactumjs/pactumjs.github.io#readme",
+  "homepage": "https://github.com/openuds-ru/docs_vp#readme",
   "devDependencies": {
     "sitemap": "^7.1.1",
     "vitepress": "^1.0.0-alpha.45",
