@@ -2,6 +2,7 @@ const github = 'https://github.com/pactumjs/pactum';
 const releases = 'https://github.com/pactumjs/pactum/releases';
 const packages = 'https://www.npmjs.com/package/pactum';
 const twitter = 'https://twitter.com/pactumjs';
+const telegram = 'https://t.me/openuds';
 
 import { createWriteStream } from 'node:fs';
 import { resolve } from 'node:path';
