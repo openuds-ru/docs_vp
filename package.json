@@ -1,0 +1,29 @@
+{
+  "name": "pactumjs.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs",
+    "docs:buildserve": "vitepress build docs && vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pactumjs/pactumjs.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pactumjs/pactumjs.github.io/issues"
+  },
+  "homepage": "https://github.com/pactumjs/pactumjs.github.io#readme",
+  "devDependencies": {
+    "sitemap": "^7.1.1",
+    "vitepress": "^1.0.0-alpha.45",
+    "vue": "^3.2.47"
+  },
+  "dependencies": {}
+}
