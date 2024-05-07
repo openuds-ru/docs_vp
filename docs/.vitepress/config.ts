@@ -243,17 +243,6 @@ const config = defineConfig({
     ['meta', { property: 'og:title', content: 'OpenUDS Docs' }],
     ['meta', { property: 'og:description', content: 'OpenUDS Documentation Library, Installation and Administration Guide, User Guide. Документация OpenUDS, руководство по установке, настройке и использованию.' }],
     ['meta', { property: 'og:image', content: 'https://static.tildacdn.com/tild3734-3265-4538-b936-633063623136/apple-icon.png' }],
-    [
-      'script',
-      {
-        src: 'https://www.googletagmanager.com/gtag/js?id=G-803PP418EL',
-      },
-    ],
-    [
-      'script',
-      {},
-      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-803PP418EL');",
-    ],
   ],
   themeConfig: {
     logo: 'https://static.tildacdn.com/tild3734-3265-4538-b936-633063623136/apple-icon.png',
