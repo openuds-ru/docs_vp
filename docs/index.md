@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: OpenUDS Docs
-  tagline: OpenUDS Documentation Library, Installation and Administration Guide, User Guide. Документация OpenUDS, руководство по установке, настройке и использованию.
+  tagline: Документация OpenUDS, руководство по установке, настройке и использованию.
   image:
     src: https://static.tildacdn.com/tild3734-3265-4538-b936-633063623136/apple-icon.png
     alt: OpenUDS Docs
