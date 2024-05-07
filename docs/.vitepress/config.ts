@@ -13,38 +13,33 @@ const links: Array<{url: string, lastmod?: number}> = []
 
 const home_sidebar = [
   {
-    text: '🚀 Getting Started',
+    text: 'Документация (EN)',
     collapsed: false,
     items: [
-      { text: 'Welcome', link: '/introduction/welcome' },
+      { text: 'Logs Guide v3.5', link: '/logs_guide_35' },
       { text: 'Quick Start', link: '/introduction/quick-start' },
       { text: 'Test Style', link: '/introduction/test-style' }
     ]
   },
   {
-    text: '📚 Guides',
+    text: 'Документация (RU)',
     collapsed: false,
     items: [
       { text: 'API Testing', link: '/guides/api-testing' },
-      { text: 'Integration Testing', link: '/guides/integration-testing' },
-      { text: 'E2E Testing', link: '/guides/e2e-testing' },
-      { text: 'Mock Server', link: '/guides/mock-server' },
-      { text: 'Component Testing', link: '/guides/component-testing' },
-      { text: 'Contract Testing', link: '/guides/contract-testing' },
-      { text: 'Data Management', link: '/guides/data-management' },
-      { text: 'Matching', link: '/guides/matching' },
-      { text: 'Reporting', link: '/guides/reporting' },
-      { text: 'Fuzz Testing', link: '/guides/fuzz-testing' },
-      { text: 'Environment Variables', link: '/guides/environment-variables' }
     ]
   },
   {
-    text: '📺 Media',
+    text: 'Медиа',
     collapsed: false,
     items: [
       { text: 'Blogs', link: '/media/blogs' },
-      { text: 'Videos', link: '/media/videos' },
-      { text: 'Projects', link: '/media/projects' }
+    ]
+  },
+    {
+    text: 'Задать вопрос',
+    collapsed: false,
+    items: [
+      { text: 'Telegram-чат', link: 'https://t.me/openuds/' },
     ]
   }
 ];
