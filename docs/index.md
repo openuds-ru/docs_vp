@@ -10,10 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Readme
-      link: /introduction/readme
-    - theme: alt
-      text: Home
-      link: https://openuds.ru/
+      link: /readme
 features:
   - title: 🚀 Руководства и инструкции
     details: Сборник руководств и инструкций для OpenUDS на русском и английском
