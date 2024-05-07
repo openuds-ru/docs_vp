@@ -257,12 +257,9 @@ const config = defineConfig({
   ],
   themeConfig: {
     logo: 'https://static.tildacdn.com/tild3734-3265-4538-b936-633063623136/apple-icon.png',
-    
-    algolia: {
-      appId: '29S2UWA248',
-      apiKey: '222f095feb10f3f0cfd05b4458cf2c59',
-      indexName: 'pactumjsio'
-    },
+    search: {
+      provider: 'local'
+    }
 
     nav: [
       { text: '🏠 Home', link: '/', activeMatch: '/guides/'},
@@ -292,7 +289,7 @@ const config = defineConfig({
       })
   },
   buildEnd: ({ outDir }) => {
-    const sitemap = new SitemapStream({ hostname: 'https://pactumjs.github.io/' })
+    const sitemap = new SitemapStream({ hostname: 'https://docs.openuds.ru/' })
     const writeStream = createWriteStream(resolve(outDir, 'sitemap.xml'))
     sitemap.pipe(writeStream)
     links.forEach((link) => sitemap.write(link))
