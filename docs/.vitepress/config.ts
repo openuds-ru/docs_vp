@@ -270,12 +270,12 @@ const config = defineConfig({
     },
 
     nav: [
-      { text: '🏠 Home', link: '/introduction/welcome', activeMatch: '/guides/'},
+      { text: '🏠 Home', link: '/', activeMatch: '/guides/'},
       
     ],
 
     sidebar: {
-        '/introduction': home_sidebar,
+        '/': home_sidebar,
         '/guides': home_sidebar,
         '/media': home_sidebar,
         '/api': api_sidebar
