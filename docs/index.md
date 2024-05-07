@@ -2,24 +2,24 @@
 layout: home
 
 hero:
-  name: PactumJS1
-  tagline: Free & OpenSource REST API Testing Tool for all levels in a Test Pyramid1
+  name: OpenUDS Docs
+  tagline: OpenUDS Documentation Library, Installation and Administration Guide, User Guide. Документация OpenUDS, руководство по установке, настройке и использованию.
   image:
-    src: /logo.svg
-    alt: PactumJS
+    src: https://static.tildacdn.com/tild3734-3265-4538-b936-633063623136/apple-icon.png
+    alt: OpenUDS Docs
   actions:
     - theme: brand
-      text: Get Started
-      link: /introduction/welcome
+      text: Readme
+      link: /introduction/readme
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/pactumjs/pactum
+      text: Home
+      link: https://openuds.ru/
 features:
-  - title: 🚀 Simple & Swift
-    details: Super fast, easy and reliable testing for all types of REST API's.
-  - title: ⚡ Powerful & Lightweight
-    details: Rich set of features to test complex scenarios yet wrapped inside a lightweight npm package.
-  - title: 🧪 Clear & Comprehensive
-    details: Clear and simple API to write readable and maintainable component, contract and end-to-end integration tests.
-footer: MIT Licensed | Copyright © 2024
+  - title: 🚀 Руководства и инструкции
+    details: Сборник руководств и инструкций для OpenUDS на русском и английском
+  - title: ⚡ Медиа
+    details: Библиотека видео-инструкций по установке и настройке OpenUDS
+  - title: 🧪 Чат в Telegram
+    details: Задать вопрос или сообщить об ошибке в документации можно в группе https://t.me/openuds
+footer: OpenUDS Pro | Copyright © 2024
 ---
