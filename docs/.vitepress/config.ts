@@ -239,8 +239,8 @@ const api_sidebar = [
  * @type {import('vitepress').UserConfig}
  */
 const config = defineConfig({
-  title: 'PactumJS',
-  description: 'REST API Testing Tool',
+  title: 'OpenUDS Docs',
+  description: 'OpenUDS Documentation Library, Installation and Administration Guide, User Guide. Документация OpenUDS, руководство по установке, настройке и использованию.',
   lastUpdated: true,
   ignoreDeadLinks: 'localhostLinks',
   head: [
@@ -264,15 +264,9 @@ const config = defineConfig({
     logo: '/logo.svg',
 
     socialLinks: [
-      { icon: 'github', link: github },
-      { icon: 'twitter', link: twitter },
+      { icon: 'telegram', link: telegram },
     ],
-
-    editLink: {
-      pattern: 'https://github.com/pactumjs/pactumjs.github.io/edit/main/docs/:path',
-      text: 'Edit this page on GitHub'
-    },
-
+    
     algolia: {
       appId: '29S2UWA248',
       apiKey: '222f095feb10f3f0cfd05b4458cf2c59',
@@ -281,13 +275,7 @@ const config = defineConfig({
 
     nav: [
       { text: '🏠 Home', link: '/introduction/welcome', activeMatch: '/guides/'},
-      { text: '⇌ API', link: '/api/requests/spec',  activeMatch: '/api/' },
-      { text: '📑 v3.x.x',
-        items: [
-          { text: 'Github Releases', link: releases },
-          { text: 'NPM Package', link: packages }
-        ]
-      }
+      
     ],
 
     sidebar: {
@@ -297,7 +285,7 @@ const config = defineConfig({
         '/api': api_sidebar
     },
     footer: {
-      message: 'Released under the MIT License.',
+      message: 'OpenUDS Pro',
       copyright: 'Copyright © 2024'
     },
   },
