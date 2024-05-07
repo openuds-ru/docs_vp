@@ -259,7 +259,7 @@ const config = defineConfig({
     logo: 'https://static.tildacdn.com/tild3734-3265-4538-b936-633063623136/apple-icon.png',
     search: {
       provider: 'local'
-    }
+    },
 
     nav: [
       { text: '🏠 Home', link: '/', activeMatch: '/guides/'},
