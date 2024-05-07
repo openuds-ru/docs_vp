@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: PactumJS
-  tagline: Free & OpenSource REST API Testing Tool for all levels in a Test Pyramid
+  name: PactumJS1
+  tagline: Free & OpenSource REST API Testing Tool for all levels in a Test Pyramid1
   image:
     src: /logo.svg
     alt: PactumJS
