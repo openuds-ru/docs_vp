@@ -245,10 +245,9 @@ const config = defineConfig({
   lastUpdated: true,
   ignoreDeadLinks: 'localhostLinks',
   head: [
-    ['meta', { name: 'twitter:site', content: '@pactumjs' }],
-    ['meta', { property: 'og:title', content: 'PactumJS' }],
-    ['meta', { property: 'og:description', content: 'REST API Testing Tool' }],
-    ['meta', { property: 'og:image', content: 'https://pactumjs.github.io/social.png' }],
+    ['meta', { property: 'og:title', content: 'OpenUDS Docs' }],
+    ['meta', { property: 'og:description', content: 'OpenUDS Documentation Library, Installation and Administration Guide, User Guide. Документация OpenUDS, руководство по установке, настройке и использованию.' }],
+    ['meta', { property: 'og:image', content: 'https://static.tildacdn.com/tild3734-3265-4538-b936-633063623136/apple-icon.png' }],
     [
       'script',
       {
@@ -262,11 +261,7 @@ const config = defineConfig({
     ],
   ],
   themeConfig: {
-    logo: '/logo.svg',
-
-    socialLinks: [
-      { icon: 'telegram', link: telegram },
-    ],
+    logo: 'https://static.tildacdn.com/tild3734-3265-4538-b936-633063623136/apple-icon.png',
     
     algolia: {
       appId: '29S2UWA248',
