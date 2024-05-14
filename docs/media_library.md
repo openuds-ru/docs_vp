@@ -18,12 +18,14 @@
 <iframe height="315px" width="100%" src="https://www.youtube.com/embed/wNTlB6vKhdk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
+
 # OpenUDS Config
 
 Настройка сервисов VDI (видео от UDS Enterprise):
 
 <iframe height="315px" width="100%" src="https://www.youtube.com/embed/srvi0_Q5zsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
+
 
 # Linux vApp
 
@@ -32,12 +34,14 @@
 <iframe height="315px" width="100%" src="https://www.youtube.com/embed/E9YHEjkt7lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
+
 # MFA TOTP
 
 Настройка MFA через TOTP токен (видео от UDS Enterprise):
 
 <iframe height="315px" width="100%" src="https://www.youtube.com/embed/Nj6ZfvfDh9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
+
 
 # MFA Email
 
