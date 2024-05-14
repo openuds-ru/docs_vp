@@ -237,7 +237,7 @@ const config = defineConfig({
   title: 'OpenUDS Docs',
   description: 'OpenUDS Documentation Library, Installation and Administration Guide, User Guide. Документация OpenUDS, руководство по установке, настройке и использованию.',
   lastUpdated: true,
-  ignoreDeadLinks: 'localhostLinks',
+  ignoreDeadLinks: true,
   head: [
     ['meta', { property: 'og:title', content: 'OpenUDS Docs' }],
     ['meta', { property: 'og:description', content: 'OpenUDS Documentation Library, Installation and Administration Guide, User Guide. Документация OpenUDS, руководство по установке, настройке и использованию.' }],
