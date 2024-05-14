@@ -15,28 +15,33 @@
 
 Установка брокера соединений OpenUDS Server на AltLinux (видео от Базальт СПО):
 
-[filename](./videos/OpenUDS-AltLinux.html ':include :type=iframe width=560px height=350px')
+<iframe height="315px" width="100%" src="https://www.youtube.com/embed/wNTlB6vKhdk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
 # OpenUDS Config
 
 Настройка сервисов VDI (видео от UDS Enterprise):
 
-[filename](./videos/OpenUDS-Config.html ':include :type=iframe width=560px height=350px')
+<iframe height="315px" width="100%" src="https://www.youtube.com/embed/srvi0_Q5zsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
 # Linux vApp
 
 Настройка доставки приложений Linux vApp (видео от UDS Enterprise):
 
-[filename](./videos/Linux_vApp_UDSE.html ':include :type=iframe width=560px height=350px')
+<iframe height="315px" width="100%" src="https://www.youtube.com/embed/E9YHEjkt7lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
 # MFA TOTP
 
 Настройка MFA через TOTP токен (видео от UDS Enterprise):
 
-[filename](./videos/TOTP_MFA_UDSE.html ':include :type=iframe width=560px height=350px')
+<iframe height="315px" width="100%" src="https://www.youtube.com/embed/Nj6ZfvfDh9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
 # MFA Email
 
 Настройка MFA через Email (видео от UDS Enterprise):
 
-[filename](./videos/Email_MFA_UDSE.html ':include :type=iframe width=560px height=350px')
+<iframe height="315px" width="100%" src="ttps://www.youtube.com/embed/sqIupVe5xoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
