@@ -47,5 +47,5 @@
 
 Настройка MFA через Email (видео от UDS Enterprise):
 
-<iframe height="315px" width="100%" src="ttps://www.youtube.com/embed/sqIupVe5xoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe height="315px" width="100%" src="https://www.youtube.com/embed/sqIupVe5xoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
