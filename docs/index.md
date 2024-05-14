@@ -18,5 +18,5 @@ features:
     details: Библиотека видео-инструкций по установке и настройке OpenUDS
   - title: 🧪 Чат в Telegram
     details: Задать вопрос или сообщить об ошибке в документации можно в группе  <a href="https://t.me/openuds">https://t.me/openuds</a>
-footer: OpenUDS Pro | Copyright © 2024
+footer: OpenUDS Professional | Copyright © 2024
 ---
