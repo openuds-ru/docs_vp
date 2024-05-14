@@ -31,7 +31,7 @@ const home_sidebar = [
     text: 'Медиа',
     collapsed: false,
     items: [
-      { text: 'Blogs', link: '/media/blogs' },
+      { text: 'Видео-руководства по установке', link: '/media_library.html' },
     ]
   },
     {
