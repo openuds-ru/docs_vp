@@ -250,7 +250,7 @@ const config = defineConfig({
     },
 
     nav: [
-      { text: '🏠 Home', link: '/', activeMatch: '/'},
+      { text: '🏠 Home', link: '/readme.html', activeMatch: '/readme.html'},
       
     ],
 
