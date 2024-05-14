@@ -10,7 +10,7 @@
 
 [5. Настройка встроенной мультифакторной аутентификации (MFA) OpenUDS через Email](#mfa-email)
 
-
+<br><br>
 # OpenUDS Install
 
 Установка брокера соединений OpenUDS Server на AltLinux (видео от Базальт СПО):
@@ -18,7 +18,7 @@
 <iframe height="315px" width="100%" src="https://www.youtube.com/embed/wNTlB6vKhdk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
-
+<br><br>
 # OpenUDS Config
 
 Настройка сервисов VDI (видео от UDS Enterprise):
@@ -26,7 +26,7 @@
 <iframe height="315px" width="100%" src="https://www.youtube.com/embed/srvi0_Q5zsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
-
+<br><br>
 # Linux vApp
 
 Настройка доставки приложений Linux vApp (видео от UDS Enterprise):
@@ -34,7 +34,7 @@
 <iframe height="315px" width="100%" src="https://www.youtube.com/embed/E9YHEjkt7lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
-
+<br><br>
 # MFA TOTP
 
 Настройка MFA через TOTP токен (видео от UDS Enterprise):
@@ -42,7 +42,7 @@
 <iframe height="315px" width="100%" src="https://www.youtube.com/embed/Nj6ZfvfDh9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
-
+<br><br>
 # MFA Email
 
 Настройка MFA через Email (видео от UDS Enterprise):
