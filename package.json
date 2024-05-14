@@ -2,7 +2,7 @@
   "name": "docs.openuds.ru",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "dev": "openuds docs",
     "docs:build": "vitepress build docs",
@@ -21,9 +21,16 @@
   },
   "homepage": "https://github.com/openuds-ru/docs_vp#readme",
   "devDependencies": {
-    "sitemap": "^7.1.1",
-    "vitepress": "^1.0.0-alpha.45",
-    "vue": "^3.2.47"
+    "markdown-it-mathjax3":"^4.3.2",
+    "sass":"^1.70.0",
+    "vitepress":"1.0.0-rc.42",
+    "vitepress-plugin-image-viewer":"^1.1.2",
+    "vitepress-sidebar":"^1.18.6"
   },
-  "dependencies": {}
+    "dependencies":{
+    "@nolebase/vitepress-plugin-enhanced-readabilities":"1.10.0",
+    "markdown-it-html5-embed":"^1.0.0",
+    "markdown-it-image-figures":"^2.1.1",
+    "vuepress-plugin-img-lazy":"^1.0.4"
+  }
 }
