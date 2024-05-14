@@ -258,7 +258,7 @@ const config = defineConfig({
         '/': home_sidebar,
     },
     footer: {
-      message: 'OpenUDS Pro',
+      message: 'OpenUDS Professional',
       copyright: 'Copyright © 2024'
     },
   },
