@@ -22,7 +22,7 @@ const home_sidebar = [
     text: 'Документация (RU)',
     collapsed: false,
     items: [
-      { text: 'Руководство по REST API v3.5', link: '/rest_api_v35.html },
+      { text: 'Руководство по REST API v3.5', link: '/rest_api_v35.html' },
     ]
   },
   {
