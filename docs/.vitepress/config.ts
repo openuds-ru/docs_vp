@@ -15,14 +15,19 @@ const home_sidebar = [
     text: 'Документация (EN)',
     collapsed: false,
     items: [
-      { text: 'Logs Guide v3.5', link: '/logs_guide_35' },
+      { text: 'Installation & Administration Guide v3.6', link: '/admin_guide_36.html' },
+      { text: 'Configuring in High Availability v3.5 (Active-Passive)', link: '/ha_guide_35.html' },
+      { text: 'Configuring in High Availability v3.6 (Active-Active)', link: '/ha_guide_36.html' },
+      { text: 'Logs Guide v3.5', link: '/logs_guide_35.html' }
     ]
   },
   {
     text: 'Документация (RU)',
     collapsed: false,
     items: [
-      { text: 'Руководство по REST API v3.5', link: '/rest_api_v35.html' },
+      { text: 'Установка и администрирование v3.6', link: '/admin_guide_36_ru.html' },
+      { text: 'Настройка высокой доступности v3.5 (Active-Passive)', link: '/ha_guide_35_ru.html' },
+      { text: 'Руководство по REST API v3.5', link: '/rest_api_v35.html' }
     ]
   },
   {
