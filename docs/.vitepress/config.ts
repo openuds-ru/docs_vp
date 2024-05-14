@@ -16,15 +16,13 @@ const home_sidebar = [
     collapsed: false,
     items: [
       { text: 'Logs Guide v3.5', link: '/logs_guide_35' },
-      { text: 'Quick Start', link: '/introduction/quick-start' },
-      { text: 'Test Style', link: '/introduction/test-style' }
     ]
   },
   {
     text: 'Документация (RU)',
     collapsed: false,
     items: [
-      { text: 'API Testing', link: '/guides/api-testing' },
+      { text: 'Руководство по REST API v3.5', link: '/rest_api_v35.html },
     ]
   },
   {
