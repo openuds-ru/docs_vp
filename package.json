@@ -25,7 +25,6 @@
     "markdown-it-mathjax3":"^4.3.2",
     "sass":"^1.70.0",
     "vitepress":"1.0.0-rc.42",
-    "sitemap": "^7.1.1",
     "vitepress-plugin-image-viewer":"^1.1.2",
     "vitepress-sidebar":"^1.18.6"
   },
