@@ -1,5 +1,13 @@
 # OpenUDS REST API Guide
 
+# Библиотека для работы с REST API
+
+В качестве практического примера работы c API может быть задействована следующая библиотека: 
+
+https://gitflic.ru/project/alexdebugger/hostvmlib
+
+Автор библиотеки: [alexdebugger](https://gitflic.ru/user/alexdebugger)
+
 # Точка входа API
 
 `http(s)://{hostname|IPv4}/uds/rest/`
